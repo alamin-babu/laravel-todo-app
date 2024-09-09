@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Welcome to Our Todo App</title>
+    <title>Todo App</title>
     <!-- Include Tailwind CSS from CDN for simplicity -->
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
