@@ -55,15 +55,8 @@ Run the migrations to set up the necessary authentication tables:
 ```
 php artisan migrate
 ```
-## Step 5: Install Laravel Breeze
-Laravel Breeze provides authentication scaffolding. Install Breeze with the following commands:
 
-```
-composer require laravel/breeze --dev
-php artisan breeze:install
-npm install && npm run dev
-```
-## Step 6: Run the Application
+## Step 5: Run the Application
 Start the Laravel development server:
 
 ```
